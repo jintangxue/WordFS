@@ -18,7 +18,9 @@ conda activate WordFS
 We test our model on three different pre-trained word embeddings: 
 
 Glove: https://nlp.stanford.edu/data/glove.6B.zip.
+
 Word2vec: https://drive.google.com/file/d/0B7XkCwpI5KDYNlNUTTlSS21pQmM/edit?usp=sharing
+
 Fasttext: https://dl.fbaipublicfiles.com/fasttext/vectors-english/wiki-news-300d-1M.vec.zip
 
 ### Usage
